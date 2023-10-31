@@ -1,0 +1,27 @@
+Working Doc Location: Master-Lyfe/MyNAS: This will allow me to host gaming servers for my brothers, Photos and videos for my family, books and movies for my wife and I, Videos and animations from our business 1) security 2) large data management 3) Custom family profiles to optimize space and settings 4) data analysis to provide the best view for each family member &see public set act (github.com)
+
+Okay so thanks for being future positive and planning a storage solution that will definitely be something I am grateful for once my needs expand. I believe God will bless my Life with abundance so I must prepare for it with a NAS. 
+IF I LIVE THE LIFE I WANT I HAVE TO DO THINGS I NEVER HAVE SO I CAN THINK IN WAYS I MAY NEVER HAD.
+To achieve this life of destined perfection, I must prepare and get ready to accept these blessings into my life....  the nas is a very small portion of preparations like .00621, 
+My work-life feels like it's ruining my life. But it's not my workplace's fault or the job.It's that I am not able to create and contribute according to my own initiatives and desires. 
+
+I want to be an entrepreneur with my life, I want to put my faith and belief into my own ability to create and make life happen for me....  And the others in my life, walking past me or on the streets. I want to make the biggest dream live large which is to build a public community center that pays its employees 10K a month for the smallest most mundane jobs and allows those people to have the money, time and energy to place the people looking for help at the community center first whether that be making sure the place is clean, well organized or coaching everyone unto their best [ everyone will be paid enough to not have to choose between any necessity or wants, or between taking care of themselves and family ].  
+
+But back to the main assignment here: My Nas is a physical project with a dashboard overlay app that will assist with functionality. 
+Building a Nas capable for
+Gaming PC and NAS in a single box. Would I save any money going that route and is the headache really worth it? : r/unRAID (reddit.com)
+
+hp microserver - Search (bing.com) - enclosure options
+
+How to turn an old PC into a NAS (xda-developers.com)
+
+
+NAS software concepts: 
+1)Options to link multiple computers files to a nas - Synchronization of multiple devices using NAS - Support - Syncthing Community Forum -You install Syncthing on all three devices, connect them to each other, set up a shared folder on one device (no matter which), share it with the other two, then accept the folder addition prompt on the other two - done. 2)NAS with multiple computers - Servers, NAS, and Home Lab - Linus Tech Tips3) 
+
+
+Steps overview:
+HARDWARE: NAS ENCLOSURE, HDD DRIVE or SSD SETUP with 3-5 bays, Ethernet port, USB port, visual connectionport
+SOFTWARE: RESEARCH AND DECIDE TRUENAS SCALE or different option capable of VM gaming and streaming
+SETUP NAS HARDWARE -> ADD DRIVES -> configure RAID5 -> Setup a back up location ->  Configure NAS Drive for steam gaming -> add folder to network storage files and access and play games from Network Attached storage Device
+Take Dell desktop and redesign for NAS enclosure-GOAL: a cool CPU, GPU AND HDD setup -parts capable of gig upload/download-check ports and confirm existing hardware working
